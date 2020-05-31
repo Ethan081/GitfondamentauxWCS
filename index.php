@@ -5,7 +5,8 @@
     <title>title</title>
   </head>
   <body>
-  <h1>Hello</h1>
+    <h1>Hello</h1>
+    <p>Ceci est un test de remote Git</p>
   
   </body>
 </html>
